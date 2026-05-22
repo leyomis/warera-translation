@@ -184,7 +184,7 @@ msgstr "<0/> à <1>{0}</1> de salaire.{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:53
 msgid "<0/> banned <1/> from the conversation"
-msgstr ""
+msgstr "<0/> a banni <1/> de la conversation"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1854
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
@@ -412,7 +412,7 @@ msgstr "<0/> a aimé ton message <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:820
 msgid "<0/> liked your message in <1/><2/>"
-msgstr ""
+msgstr "<0/> a aimé votre message dans <1/><2/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:241
 msgid "<0/> made peace with <1/>"
@@ -420,11 +420,11 @@ msgstr "<0/> a fait la paix avec <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1218
 msgid "<0/> mentioned you <1/>"
-msgstr ""
+msgstr "<0/> vous a mentionné <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1209
 msgid "<0/> mentioned you in <1/><2/>"
-msgstr ""
+msgstr "<0/> vous a mentionné dans <1/><2/>"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:221
 msgid "<0/> paid fee"
@@ -459,7 +459,7 @@ msgstr "<0/> a répondu à ton message {0}"
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
 #: src/components/_user/notification/notification.frontConfig.tsx:856
 msgid "<0/> responded to your message in <1/>{0}"
-msgstr ""
+msgstr "<0/> a répondu à ton message dans <1/>{0}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:152
 msgid "<0/> started, vote for your favorite candidate"
@@ -891,7 +891,7 @@ msgstr "1★ Adjudant"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:33
 msgid "100% historically accurate"
-msgstr ""
+msgstr "100% exact historiquement"
 
 #: src/components/_common/GameRules.tsx:46
 msgid "2. IP and Device Sharing"
@@ -1909,7 +1909,7 @@ msgstr "Flou"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
-msgstr ""
+msgstr "Massue en os"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2152,7 +2152,7 @@ msgstr "Catapulte"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:269
 msgid "Cave Bear Headdress"
-msgstr ""
+msgstr "Coiffe d'ours des cavernes"
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
@@ -2341,11 +2341,11 @@ msgstr "Fermer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:266
 msgid "Clovis Point"
-msgstr ""
+msgstr "Pointe Clovis"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:37
 msgid "Cold af"
-msgstr ""
+msgstr "Froid"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:106
 msgid "Colonel"
@@ -3641,19 +3641,19 @@ msgstr "Fun fact : La maison gagne toujours"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
-msgstr ""
+msgstr "Bottes en fourrure"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:278
 msgid "Fur Loincloth"
-msgstr ""
+msgstr "Pagne en fourrure"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:281
 msgid "Fur Mittens"
-msgstr ""
+msgstr "Mitaines en fourrure"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:272
 msgid "Fur Tunic"
-msgstr ""
+msgstr "Tunique en fourrure"
 
 #: src/components/_common/GameRules.tsx:234
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
@@ -4232,7 +4232,7 @@ msgstr "Exclure le membre"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:263
 msgid "Knapped Flints"
-msgstr ""
+msgstr "Silex taillés"
 
 #: src/utils/translations.tsx:22
 msgid "Knife"
@@ -4314,7 +4314,7 @@ msgstr "Plomb"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:248
 msgid "Leather Sling"
-msgstr ""
+msgstr "Élingue en cuir"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:221
 msgid "Leave"
@@ -6796,7 +6796,7 @@ msgstr "Passer le tutoriel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
-msgstr ""
+msgstr "Pierres de fronde"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
@@ -6934,7 +6934,7 @@ msgstr "Acier"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:245
 msgid "Stone Maul"
-msgstr ""
+msgstr "Pierre de mutilation"
 
 #: src/components/_economy/company/CompanyTags.tsx:107
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:78
@@ -7531,7 +7531,7 @@ msgstr "Tutoriels réinitialisés"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:257
 msgid "Tyrannosaurus Rex"
-msgstr ""
+msgstr "Tyrannosaure Rex"
 
 #: src/components/_layout/LayoutOptions.tsx:146
 msgid "UI"
@@ -8023,7 +8023,7 @@ msgstr "Quelle est la raison de cette loi ?"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:36
 msgid "Winter Soldier pack"
-msgstr ""
+msgstr "Pack Soldat de l'hiver"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:185
 msgid "with bonus"
@@ -8048,11 +8048,11 @@ msgstr "Gagné par"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
-msgstr ""
+msgstr "Arc en bois"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:254
 msgid "Woolly Mammoth"
-msgstr ""
+msgstr "Mammouth laineux"
 
 #: src/components/_economy/company/WorkButton.tsx:244
 #: src/components/_user/mission/mission.frontConfig.tsx:76
@@ -8613,7 +8613,7 @@ msgstr "Ton lien de parrainage"
 
 #: src/pages/tournament/[tournamentId]/index.tsx:66
 msgid "Your team"
-msgstr ""
+msgstr "Ton équipe"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1370
 msgid "Your team <0/> has been eliminated from the <1/>"
