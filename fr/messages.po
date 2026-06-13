@@ -2360,7 +2360,7 @@ msgstr "Changer la couleur en <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:89
 msgid "Change nationality"
-msgstr ""
+msgstr "Changer de nationalité"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2534,7 +2534,7 @@ msgstr "Palette de couleurs"
 
 #: src/components/_layout/LayoutOptions.tsx:167
 msgid "Colorblind mode"
-msgstr ""
+msgstr "Mode daltonien"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -2977,7 +2977,7 @@ msgstr "Unité militaire actuelle"
 
 #: src/components/_military/mu/MuSettings.tsx:63
 msgid "Current nationality"
-msgstr ""
+msgstr "Nationalité actuelle"
 
 #: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
@@ -5233,7 +5233,7 @@ msgstr "Ministre des Affaires étrangères"
 
 #: src/components/_layout/LayoutOptions.tsx:175
 msgid "Mission tags"
-msgstr ""
+msgstr "Étiquettes de mission"
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -5429,7 +5429,7 @@ msgstr "Prime nationale"
 
 #: src/components/_military/mu/MuSettings.tsx:31
 msgid "Nationality updated"
-msgstr ""
+msgstr "Nationalité mise à jour"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
@@ -5521,7 +5521,7 @@ msgstr "Nouveau nom"
 
 #: src/components/_military/mu/MuSettings.tsx:76
 msgid "New nationality"
-msgstr ""
+msgstr "Nouvelle nationalité"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "New Party Application"
@@ -5807,7 +5807,7 @@ msgstr "Pas dans une alliance"
 
 #: src/components/_military/mu/MuSettings.tsx:69
 msgid "Not set"
-msgstr ""
+msgstr "Pas établi"
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:79
@@ -5881,7 +5881,7 @@ msgstr "Seuls les supporters peuvent voir la répartition de leurs dépenses et 
 
 #: src/components/_military/mu/MuSettings.tsx:104
 msgid "Only the owner and commanders can change the nationality."
-msgstr ""
+msgstr "Seul le propriétaire et les commandants peuvent changer la nationalité."
 
 #: src/components/_political/party/party.frontConfig.tsx:264
 msgid "Only your core regions generate development income."
