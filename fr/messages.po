@@ -2360,7 +2360,7 @@ msgstr "Changer la couleur en <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:89
 msgid "Change nationality"
-msgstr ""
+msgstr "Changer de nationalité"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2531,10 +2531,9 @@ msgstr "Colonel"
 #: src/components/_user/user/UserDropdown.tsx:219
 msgid "Color scheme"
 msgstr "Palette de couleurs"
-
 #: src/components/_layout/LayoutOptions.tsx:167
 msgid "Colorblind mode"
-msgstr ""
+msgstr "Mode daltonien"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -2601,7 +2600,7 @@ msgstr "Entreprise renommée !"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:143
 msgid "Company upgraded!"
-msgstr ""
+msgstr "Entreprise améliorée!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:194
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
@@ -2981,7 +2980,7 @@ msgstr "Unité militaire actuelle"
 
 #: src/components/_military/mu/MuSettings.tsx:63
 msgid "Current nationality"
-msgstr ""
+msgstr "Nationalité actuelle"
 
 #: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
@@ -5019,7 +5018,7 @@ msgstr "Niveau maximum atteint !"
 #: src/components/_economy/company/CompanyDropdown.tsx:214
 #: src/components/_economy/company/CompanyDropdown.tsx:232
 msgid "Maxed!"
-msgstr ""
+msgstr "Au maximum !"
 
 #. placeholder {0}: levelConfig.stats.members
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:109
@@ -5238,7 +5237,7 @@ msgstr "Ministre des Affaires étrangères"
 
 #: src/components/_layout/LayoutOptions.tsx:175
 msgid "Mission tags"
-msgstr ""
+msgstr "Étiquettes de mission"
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -5434,7 +5433,7 @@ msgstr "Prime nationale"
 
 #: src/components/_military/mu/MuSettings.tsx:31
 msgid "Nationality updated"
-msgstr ""
+msgstr "Nationalité mise à jour"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
@@ -5526,7 +5525,7 @@ msgstr "Nouveau nom"
 
 #: src/components/_military/mu/MuSettings.tsx:76
 msgid "New nationality"
-msgstr ""
+msgstr "Nouvelle nationalité"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "New Party Application"
@@ -5672,7 +5671,7 @@ msgstr "Pas encore de classement de terrain."
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
-msgstr ""
+msgstr "Pas de kits encore - ajoute-en un que tu peux équiper rapidement avec un ensemble complet "
 
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
@@ -5816,7 +5815,7 @@ msgstr "Pas dans une alliance"
 
 #: src/components/_military/mu/MuSettings.tsx:69
 msgid "Not set"
-msgstr ""
+msgstr "Pas établi"
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:79
@@ -7126,7 +7125,7 @@ msgstr "Voir le détail de tes dépenses et revenus"
 
 #: src/components/_military/mu/MuSettings.tsx:79
 msgid "Select a country"
-msgstr ""
+msgstr "Selectionner un pays"
 
 #: src/components/_military/mu/MuFormModal.tsx:114
 msgid "Select a location"
@@ -7134,7 +7133,7 @@ msgstr "Sélectionner un emplacement"
 
 #: src/components/_political/party/PartyFormModal.tsx:110
 msgid "Select a region"
-msgstr "Sélectionnez une région"
+msgstr "Sélectionner une région"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:247
 msgid "Select all"
@@ -7672,7 +7671,7 @@ msgstr "Plan Supporter"
 
 #: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Supporter Plan: up to {premiumMax} kits"
-msgstr ""
+msgstr "Plan Supporter: augmenter à {premiumMax} kits"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -8104,7 +8103,7 @@ msgstr "Total donné :"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:409
 msgid "Total of <0/>"
-msgstr ""
+msgstr "Total de <0/>"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
@@ -8333,7 +8332,7 @@ msgstr "Améliore une entreprise"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:200
 msgid "Upgrade automated engine"
-msgstr ""
+msgstr "Améliorer une machine automatisée"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:393
 msgid "Upgrade Company"
@@ -8345,7 +8344,7 @@ msgstr "Améliorer les compétences"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:218
 msgid "Upgrade storage"
-msgstr ""
+msgstr "Améliorer l'entrepôt"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:205
 msgid "Upgrade to supporter"
@@ -8823,7 +8822,7 @@ msgstr "Monde <0/>"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "World Cup Ball"
-msgstr ""
+msgstr "Ballon de la Coupe du Monde"
 
 #: src/components/_layout/LayoutOptions.tsx:222
 #: src/components/_user/kits/KitsPopover.tsx:258
@@ -9331,7 +9330,7 @@ msgstr "Le nom de ton unité militaire"
 
 #: src/components/_military/mu/MuSettings.tsx:55
 msgid "Your military unit nationality is the country it represents. Changing it costs concrete and can only be done once every {cooldownDays} days."
-msgstr ""
+msgstr "La nationalité de ton unité militaire est le pays qu'elle représente. La changer coûte du béton et peut être fait qu'une seule fois tous les {cooldownDays} jours."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
